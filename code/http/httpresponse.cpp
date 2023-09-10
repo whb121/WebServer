@@ -4,7 +4,6 @@
  * @copyleft Apache 2.0
  */ 
 #include "httpresponse.h"
-
 using namespace std;
 
 const unordered_map<string, string> HttpResponse::SUFFIX_TYPE = {
