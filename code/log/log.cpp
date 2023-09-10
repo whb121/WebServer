@@ -4,7 +4,6 @@
  * @copyleft Apache 2.0
  */ 
 #include "log.h"
-
 using namespace std;
 
 Log::Log() {
