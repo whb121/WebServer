@@ -1,7 +1,5 @@
 /*
- * @Author       : mark
- * @Date         : 2020-06-19
- * @copyleft Apache 2.0
+ epoll
  */
 
 #include "epoller.h"
