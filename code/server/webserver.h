@@ -1,7 +1,5 @@
 /*
- * @Author       : mark
- * @Date         : 2020-06-17
- * @copyleft Apache 2.0
+sum
  */ 
 #ifndef WEBSERVER_H
 #define WEBSERVER_H
